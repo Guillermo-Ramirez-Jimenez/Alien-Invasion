@@ -1,2 +1,2 @@
-# Space-Invaders
-The classic game in Python, from the book Python Crash Course.
+# Space Invaders
+The classic game in PyGame, from the book Python Crash Course.
